@@ -1,0 +1,6 @@
+Value in Pound isPrice: £123.95
+Ex Tax: £123.95
+Value in Euro is Price: 141.31€
+Ex Tax: 141.31€
+Value in dollar is Price: $199.99
+Ex Tax: $199.99
